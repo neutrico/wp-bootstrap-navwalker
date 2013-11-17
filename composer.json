@@ -1,5 +1,6 @@
 {
     "name": "neutrico/wp-bootstrap-navwalker",
+    "version": "2.0.6",
     "description": "A custom WordPress nav walker class to fully implement the Bootstrap 3.0+ navigation style in a custom theme using the WordPress built in menu manager.",
     "homepage": "http://twittem.github.io/wp-bootstrap-navwalker/",
     "keywords": ["wordpress","plugins", "theme", "bootstrap", "menu"],
