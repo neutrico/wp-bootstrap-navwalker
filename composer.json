@@ -6,21 +6,21 @@
     "keywords": ["wordpress","plugins", "theme", "bootstrap", "menu"],
     "license": "GPL-2.0+",
     "authors": [
-	{
-	    "name": "Edward McIntyre - @twittem",
-	    "homepage": "https://github.com/twittem/wp-bootstrap-navwalker",
-	    "role": "Developer"
-	},
-	{
-	    "name": "Marcin Antczak",
-	    "homepage": "https://neutrico.pl",
-	    "role": "Developer"
-	}
+        {
+            "name": "Edward McIntyre - @twittem",
+            "homepage": "https://github.com/twittem/wp-bootstrap-navwalker",
+            "role": "Developer"
+        },
+        {
+            "name": "Marcin Antczak",
+            "homepage": "https://neutrico-themes.pl",
+            "role": "Developer"
+        }
     ],
     "require": {
-	"php": ">=5.2"
+        "php": ">=5.2"
     },
     "autoload": {
-	"files": ["wp_bootstrap_navwalker.php"]
+        "files": ["wp_bootstrap_navwalker.php"]
     }
 }
